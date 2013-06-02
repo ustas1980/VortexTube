@@ -138,6 +138,7 @@ type
     RotatePrevX, RotatePrevY: Integer;
     StopFlag: Boolean;
     //
+    //
 //    showCountSpeedMsg: Boolean;
     //
     procedure InitVortexes1;
